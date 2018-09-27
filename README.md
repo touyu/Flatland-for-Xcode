@@ -1,4 +1,5 @@
 # Flatland-for-Xcode
+Flatland is Theme which is suitable for dark mode of Xcode
 
 ![sample](https://github.com/touyu/Flatland-for-Xcode/blob/image/resources/sample.png?raw=true)
 
