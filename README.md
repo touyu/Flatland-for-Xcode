@@ -1,5 +1,7 @@
 # Flatland-for-Xcode
 
+![sample](https://github.com/touyu/Flatland-for-Xcode/blob/image/resources/sample.png?raw=true)
+
 ## Installation
 
 ```
